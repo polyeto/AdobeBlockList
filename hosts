@@ -1,5 +1,6 @@
-#AdobeBlockList
-#Blocks Adobe activation servers
+# AdobeBlockList
+# Blocks Adobe activation servers
+
 127.0.0.1 hl2rcv.adobe.com
 127.0.0.1 adobeereg.com
 127.0.0.1 activate.adobe.com
